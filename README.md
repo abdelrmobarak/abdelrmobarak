@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Abdel-Rahman
+![original-21e25a5d34d224ef68688772ab14a1b1](https://github.com/user-attachments/assets/37e2aa32-c8f6-40ee-9367-ed1ec786bfaa)
+I'm an aspiring software developer from Canada
+
+## Some cool stuff
+* I am currently studying at Queen's University for Computing
+* I'm a big sports fan, specifically a basketball guy
+* I'm interested in all things tech
+
+
 
 <!--
 **abdelrmobarak/abdelrmobarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
