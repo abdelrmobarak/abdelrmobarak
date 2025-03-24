@@ -1,11 +1,17 @@
-## Hi, I'm Abdel-Rahman
-![original-21e25a5d34d224ef68688772ab14a1b1](https://github.com/user-attachments/assets/37e2aa32-c8f6-40ee-9367-ed1ec786bfaa)
-I'm an aspiring software developer from Canada
+<h1>Hi, I'm Abdel-Rahman 👋</h1>
+
+![ezgif-5e5a8581c2b7da](https://github.com/user-attachments/assets/e6ef201b-e489-48fb-87e5-ca1360bef63f)
+
+I'm an aspiring software developer from Canada. Below are a couple of cool facts about me.
 
 ## Some cool stuff
 * I am currently studying at Queen's University for Computing
 * I'm a big sports fan, specifically a basketball guy
-* I'm interested in all things tech
+* I'm interested in all things tech\
+
+## Let's Connect
+<a href='https://www.ammobarak.com' >My Personal Website</a> <br>
+<a href='https://www.linkedin.com/in/abdel-rahman-mobarak/' >My LinkedIn</a>
 
 
 
