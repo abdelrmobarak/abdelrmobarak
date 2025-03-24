@@ -7,7 +7,7 @@ I'm an aspiring software developer from Canada. Below are a couple of cool facts
 ## Some cool stuff
 * I am currently studying at Queen's University for Computing
 * I'm a big sports fan, specifically a basketball guy
-* I'm interested in all things tech\
+* I'm interested in all things tech
 
 ## Let's Connect
 <a href='https://www.ammobarak.com' >My Personal Website</a> <br>
