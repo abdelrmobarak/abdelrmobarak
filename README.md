@@ -5,7 +5,7 @@
 I'm an aspiring software developer from Canada. Below are a couple of cool facts about me.
 
 ## Some cool stuff
-* I am currently studying at Queen's University for Computing
+* I am currently studying at Queen's University for Computing and a Minor in Statistics
 * I'm a big sports fan, specifically a basketball guy
 * I'm interested in all things tech
 
