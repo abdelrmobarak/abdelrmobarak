@@ -2,9 +2,9 @@
 
 ![ezgif-5e5a8581c2b7da](https://github.com/user-attachments/assets/e6ef201b-e489-48fb-87e5-ca1360bef63f)
 
-I'm an aspiring software developer from Canada. Below are a couple of cool facts about me.
+I'm a software developer from Canada, and I've always had an interest for how software can be used to solve problems around the world.
 
-## Some cool stuff
+## Some cool stuff about me
 * I am currently studying at Queen's University for Computing and a Minor in Statistics
 * I'm a big sports fan
 * I'm interested in all things tech
