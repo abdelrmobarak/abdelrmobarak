@@ -1,6 +1,4 @@
-<h1>Hi, I'm Abdel-Rahman 👋</h1>
-
-![ezgif-5e5a8581c2b7da](https://github.com/user-attachments/assets/e6ef201b-e489-48fb-87e5-ca1360bef63f)
+<h1>Hi, I'm Abdel-Rahman</h1>
 
 I'm a software developer from Canada, and I've always had an interest for how software can be used to solve problems around the world.
 
