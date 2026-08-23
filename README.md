@@ -10,6 +10,8 @@ I'm a software developer from Canada, and I've always had an interest for how so
 ## Let's Connect
 <a href='https://www.ammobarak.com' >My Personal Website</a> <br>
 <a href='https://www.linkedin.com/in/abdel-rahman-mobarak/' >My LinkedIn</a>
+Email: abdel-rahman [at] mobarak.ca
+
 
 
 
